@@ -1,4 +1,15 @@
-### Hi there, I'm Ilya 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/y3wBjXMffuFjy/giphy.gif" width="200"/>
+</div>
+
+<h1
+    align="center">
+Hi there, I'm Ilya 👋
+    </h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/z2KbVZxKCHxxIDhnsQ/giphy.gif" width="400" height="300"/>
+</div>
 
 <!--
 **yi1lei6a3/yi1lei6a3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,21 +26,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br>
+---
 
-<!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yi1lei6a3&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1lei6a3&langs_count=5&theme=tokyonight)]()
--->
-
-![](https://github-readme-stats.vercel.app/api?username=yi1lei6a3&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=yi1lei6a3&theme=light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1lei6a3&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+### :fire: My Stats :
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yi1lei6a3&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+![](https://github-readme-stats.vercel.app/api?username=yi1lei6a3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](http://github-readme-streak-stats.herokuapp.com?user=yi1lei6a3&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1lei6a3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yi1lei6a3&&theme=tokyonight&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
