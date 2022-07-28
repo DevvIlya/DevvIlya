@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 
 ---
 
+### :man_technologist: About Me :
+
+I am a Full Stack Developer
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
