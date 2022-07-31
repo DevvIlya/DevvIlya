@@ -26,14 +26,15 @@ Here are some ideas to get you started:
 
 ---
 
-### :man_technologist: About Me :
+### About Me:
 
 I am a Full Stack Developer
 
 ---
 
 <br>
-<h2>Social Networks</h2>
+<Details close="true">
+    <summary><b>:iphone: &nbsp;Social Networks</b></summary>
 
 [![Instagram][1.2]][1] [![Telegram][2.2]][2]
 
@@ -42,12 +43,14 @@ I am a Full Stack Developer
 
 [1]: https://www.instagram.com/ilya.dubinin
 [2]: http://telegram.me/Ilya_V_Dubinin
-
-<br>
+</details>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+<br>
+
+<Details close="true">
+    <summary><b>:hammer_and_wrench: &nbsp;Languages and Tools</b></summary>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
@@ -63,10 +66,28 @@ I am a Full Stack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
 </div>
+</details>
+
+<!--
+<br>
+<h2>Skills</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux,jupyter" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,github,postgres,md" />
+  </a>
+</p>
+-->
 
 ---
 
-### :fire: My Stats :
+<Details close="true">
+    <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
 <br>
 
@@ -81,6 +102,7 @@ I am a Full Stack Developer
 [![trophy](https://github-profile-trophy.vercel.app/?username=yi1lei6a3&&theme=tokyonight&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
+</details>
 
 
 ***
