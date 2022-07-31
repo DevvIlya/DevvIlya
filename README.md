@@ -49,8 +49,7 @@ I am a Full Stack Developer
 
 <br>
 
-<Details close="true">
-    <summary><b>:hammer_and_wrench: &nbsp;Languages and Tools</b></summary>
+### Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
@@ -66,7 +65,6 @@ I am a Full Stack Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="sqlalchemy" alt="sqlalchemy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp;
 </div>
-</details>
 
 <!--
 <br>
