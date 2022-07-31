@@ -32,6 +32,21 @@ I am a Full Stack Developer
 
 ---
 
+<br>
+<h2>Social Networks</h2>
+
+[![Instagram][1.2]][1] [![Telegram][2.2]][2]
+
+[1.2]: https://s4.uupload.ir/files/instagram_6djz.png
+[2.2]: https://s4.uupload.ir/files/telegram_q47u.png
+
+[1]: https://www.instagram.com/ilya.dubinin
+[2]: http://telegram.me/Ilya_V_Dubinin
+
+<br>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
