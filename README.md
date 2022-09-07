@@ -1,13 +1,10 @@
 
 
 <h1
-    align="center">
-Hi there, I'm Ilya 👋
-    </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/z2KbVZxKCHxxIDhnsQ/giphy.gif" width="400" height="300"/>
-</div>
+align="center">
+Hi there, I'm Ilya 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
 <!--
 **yi1lei6a3/yi1lei6a3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-### About Me:
-
-I am a Full Stack Developer
+<h2 align="center"> I am a Full Stack Developer </h2>
 
 ---
 
@@ -89,19 +84,25 @@ I am a Full Stack Developer
     <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
 <br>
-
+<h2 align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=yi1lei6a3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](http://github-readme-streak-stats.herokuapp.com?user=yi1lei6a3&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1lei6a3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+</h2>
 <br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yi1lei6a3&&theme=tokyonight&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 </details>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/z2KbVZxKCHxxIDhnsQ/giphy.gif" width="200" height="200"/>
+</div>
 
 
 ***
