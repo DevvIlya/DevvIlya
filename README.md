@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 <h2 align="center"> I am a Full Stack Developer </h2>
 
 ---
+-->
 
 <br>
 <Details close="true">
