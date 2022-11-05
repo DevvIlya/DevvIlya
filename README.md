@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 [2.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [1]: https://www.instagram.com/ilya.dubinin
-[2]: http://telegram.me/Ilya_V_Dubinin
+[2]: http://telegram.me/Eliajaa
 </details>
 
 ---
