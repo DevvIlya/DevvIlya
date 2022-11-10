@@ -66,22 +66,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
-<br>
-<h2>Skills</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,bash,linux,jupyter" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,github,postgres,md" />
-  </a>
-</p>
--->
-
 ---
 
 <Details close="true">
