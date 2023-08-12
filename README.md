@@ -6,24 +6,6 @@ Hi there, I'm Ilya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<!--
-**yi1lei6a3/yi1lei6a3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
----
-
-<!--
 <h2 align="center"> I am a Full Stack Developer </h2>
 
 ---
@@ -72,9 +54,6 @@ Here are some ideas to get you started:
 
 <Details close="true">
     <summary><b>:gear: &nbsp;Git statistics</b></summary>
-    <h3>Languages Used</h3>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1lei6a3&layout=compact)
 
 
 <br>
