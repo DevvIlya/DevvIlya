@@ -74,7 +74,7 @@ Here are some ideas to get you started:
     <summary><b>:gear: &nbsp;Git statistics</b></summary>
     <h3>Languages Used</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1lei6a3&layout=compact)
 
 
 <br>
