@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <Details close="true">
     <summary><b>:iphone: &nbsp;Social Networks</b></summary>
 
-[![Instagram][1.2]][1] [![Telegram][2.2]][2]
+[![Instagram][1.2]][1] 
+[![Telegram][2.2]][2]
 
 [1.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [2.2]: https://s4.uupload.ir/files/telegram_q47u.png
@@ -71,6 +72,10 @@ Here are some ideas to get you started:
 
 <Details close="true">
     <summary><b>:gear: &nbsp;Git statistics</b></summary>
+    <h3>Languages Used</h3>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact)
+
 
 <br>
 <h2 align="center">
