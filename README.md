@@ -47,7 +47,7 @@ Hi there, I'm Ilya
 
 ---
 
-<Details close="true">
+<Details close="false">
     <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
 
