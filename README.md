@@ -6,11 +6,6 @@ Hi there, I'm Ilya
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-<h2 align="center"> I am a Full Stack Developer </h2>
-
----
--->
-
 <br>
 <Details close="true">
     <summary><b>:iphone: &nbsp;Social Networks</b></summary>
