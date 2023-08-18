@@ -1,24 +1,10 @@
-
-
+<! - -
 <h1
 align="center">
 Hi there, I'm Ilya 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-
-<br>
-<Details close="true">
-    <summary><b>:iphone: &nbsp;Social Networks</b></summary>
-
-[![Instagram][1.2]][1] 
-[![Telegram][2.2]][2]
-
-[1.2]: https://s4.uupload.ir/files/instagram_6djz.png
-[2.2]: https://s4.uupload.ir/files/telegram_q47u.png
-
-[1]: https://www.instagram.com/ilya.dubinin
-[2]: http://telegram.me/Eliajaa
-</details>
+- - >
 
 ---
 
