@@ -31,8 +31,9 @@
 </h2>
 <br>
 
+<h2 align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=yi1lei6a3&&theme=tokyonight&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
+</h2>
 <br>
 
 ---
