@@ -1,4 +1,25 @@
 <br>
+<h2 align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=yi1lei6a3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](http://github-readme-streak-stats.herokuapp.com?user=yi1lei6a3&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1lei6a3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</h2>
+<br>
+
+---
+
+<h2 align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=yi1lei6a3&&theme=tokyonight&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</h2>
+<br>
+
+---
+
+<br>
 
 ### Languages:
 
@@ -18,25 +39,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-<br>
-<h2 align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=yi1lei6a3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](http://github-readme-streak-stats.herokuapp.com?user=yi1lei6a3&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yi1lei6a3&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</h2>
-<br>
-
-<h2 align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=yi1lei6a3&&theme=tokyonight&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</h2>
-<br>
 
 ---
 
