@@ -1,11 +1,3 @@
-<h1
-align="center">
-Hi there, I'm Ilya 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
-
----
-
 <br>
 
 ### Languages:
@@ -13,6 +5,8 @@ Hi there, I'm Ilya
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
+
+  ---
 
 ### Tools and technologies:
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Mpring" width="40" height="40"/>&nbsp;
@@ -24,11 +18,8 @@ Hi there, I'm Ilya
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
+
 ---
-
-<Details close="false">
-    <summary><b>:gear: &nbsp;Git statistics</b></summary>
-
 
 <br>
 <h2 align="center">
@@ -43,7 +34,6 @@ Hi there, I'm Ilya
 [![trophy](https://github-profile-trophy.vercel.app/?username=yi1lei6a3&&theme=tokyonight&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
-</details>
 
 ---
 
