@@ -1,7 +1,10 @@
 <h2 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F731BA&center=true&vCenter=true&width=450&height=100&lines=Fullstack+developer)](https://git.io/typing-svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yi1lei6a3&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+</h2>
+  
 ### Languages:
 
 <div>
@@ -23,7 +26,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp;
 </div>
 
+</h2>
+
+<!--
+<h2 align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yi1lei6a3&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</h2>
+---
 
 <!--
 ---
@@ -36,7 +47,6 @@
 
 </h2>
 -->
-  ---
 
 <h2 align="center">
   
@@ -74,4 +84,5 @@
 
 ***
 -->
+
 </h2>
