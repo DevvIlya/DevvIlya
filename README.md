@@ -1,6 +1,7 @@
 <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F731BA&center=true&vCenter=true&width=400&height=80&lines=Fullstack+developer)](https://git.io/typing-svg)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yi1lei6a3&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F731BA&center=true&vCenter=true&width=400&height=80&lines=Fullstack+developer)](https://git.io/typing-svg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yi1lei6a3&theme=violet-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </h2>
   
